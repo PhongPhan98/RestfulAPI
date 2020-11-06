@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hddtRestfulAPI", "hddtRestfulAPI\hddtRestfulAPI.csproj", "{2C4C755B-DED7-4F04-A769-231B202BD295}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{27D2CB6E-0F02-4A50-B40F-CC957356CC3E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{58D89E1C-D09A-42C5-8403-4DECAFA27D71}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Upload", "Upload", "{3E5CF4CD-0BCB-4F0C-B890-52B480A49E2E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{5F5043E1-6C1C-46E7-A6B7-348AB26C0B4C}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\Phong Phan\Desktop\BehindcmndPNG.PNG = C:\Users\Phong Phan\Desktop\BehindcmndPNG.PNG
+		C:\Users\Phong Phan\Desktop\FontcmndPNG.PNG = C:\Users\Phong Phan\Desktop\FontcmndPNG.PNG
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "File", "File", "{222C1871-CA0F-44F3-B918-D52BFD7604F0}"
+	ProjectSection(SolutionItems) = preProject
+		log.txt = log.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C4C755B-DED7-4F04-A769-231B202BD295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C4C755B-DED7-4F04-A769-231B202BD295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C4C755B-DED7-4F04-A769-231B202BD295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C4C755B-DED7-4F04-A769-231B202BD295}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27D2CB6E-0F02-4A50-B40F-CC957356CC3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27D2CB6E-0F02-4A50-B40F-CC957356CC3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27D2CB6E-0F02-4A50-B40F-CC957356CC3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27D2CB6E-0F02-4A50-B40F-CC957356CC3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58D89E1C-D09A-42C5-8403-4DECAFA27D71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58D89E1C-D09A-42C5-8403-4DECAFA27D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58D89E1C-D09A-42C5-8403-4DECAFA27D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58D89E1C-D09A-42C5-8403-4DECAFA27D71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5F5043E1-6C1C-46E7-A6B7-348AB26C0B4C} = {3E5CF4CD-0BCB-4F0C-B890-52B480A49E2E}
+		{222C1871-CA0F-44F3-B918-D52BFD7604F0} = {3E5CF4CD-0BCB-4F0C-B890-52B480A49E2E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0578E876-15FD-45C7-80A3-095270E723BE}
+	EndGlobalSection
+EndGlobal

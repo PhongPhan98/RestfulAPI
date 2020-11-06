@@ -1,0 +1,7 @@
+GET | Lấy toàn bộ danh sách Nhân Viên trong table NhanVien | 05-Nov-20 12:57:41 AM
+GET | Lấy toàn bộ danh sách Nhân Viên trong table NhanVien | 05-Nov-20 12:57:45 AM
+GET | Lấy toàn bộ danh sách Nhân Viên đã ký hợp đồng trong table NhanVien | 06-Nov-20 1:17:00 AM
+GET | Lấy toàn bộ danh sách Nhân Viên đã ký hợp đồng trong table NhanVien | 06-Nov-20 8:24:22 AM
+GET | Lấy toàn bộ danh sách Nhân Viên trong table NhanVien | 06-Nov-20 8:28:31 AM
+POST | Thêm nhân viên có mã nhân viên là 7 vào table NhanVien | 06-Nov-20 8:29:50 AM
+GET | Lấy toàn bộ danh sách Nhân Viên trong table NhanVien | 06-Nov-20 8:29:56 AM
